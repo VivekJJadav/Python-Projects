@@ -1,1 +1,1 @@
-# Small though Intersting Projects 
+# Small but Interesting Projects in python 
